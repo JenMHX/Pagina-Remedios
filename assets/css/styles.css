@@ -81,6 +81,16 @@ h6{
   text-align: center;
 }
 
+.btn-ver_mas {
+  color: #fff;
+  background-color: #1E1E1E;
+  border-color: #fff;
+  color: #EEA66B;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  border-radius: 10px;
+}
 .p-subtitle{
   font-family: 'Nanum Myeongjo', serif;
   font-weight: 500;
@@ -111,7 +121,9 @@ h6{
     line-height: 1.5rem;
   }
 
-
+.img-border{
+  width: 20rem;
+}
 
  .enlace{
     font-family: 'Raleway', sans-serif;
@@ -385,6 +397,18 @@ a {
   background-size: cover;
   width: 100%;
   
+}
+
+.card-body-obra {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #EEA66B;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem;
 }
 
 @media (min-width: 991px) {
