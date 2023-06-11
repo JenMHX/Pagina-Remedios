@@ -254,6 +254,18 @@ a {
   padding-left: 15px;
 }
 
+.input-contact{
+  background-color: #1E1E1E;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 400;
+  border-radius: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 15px;
+}
+
 .newsletter-btn{
   background-color: #fff;
   color: #1E1E1E;
@@ -265,6 +277,24 @@ a {
   padding-bottom: 5px;
   padding-right: 30px;
   padding-left: 30px;
+}
+
+.contact-btn{
+  background-color: #fff;
+  color: #1E1E1E;
+  font-size: 1.5rem;
+  font-weight: 400;
+  border-radius: 10px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.imagen-contacto{
+  width: 23rem;
+  border-radius: 30px;
 }
 
 .iconos{
@@ -642,6 +672,11 @@ a.decade-btn:hover{
     padding-bottom: 5rem;
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  .imagen-contacto{
+    width: 18rem;
+    border-radius: 30px;
   }
 
 }
