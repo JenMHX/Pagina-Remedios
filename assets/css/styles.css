@@ -182,6 +182,10 @@ a {
   margin: auto;
   text-transform: uppercase;
 }
+
+.navegacion__enlace:active{
+  color: #fff
+}
 .icono-width{
   width: 4rem;
   
@@ -445,6 +449,24 @@ a {
   border-radius: 0.25rem;
 }
 
+
+a.cat-btn {
+  font-family: 'Raleway', sans-serif;
+  display: inline-block;
+  color: #EEA66B;
+  border: 2px solid #EEA66B;
+  padding: 8px 33px;
+  border-radius: 2rem;
+  font-size: 1rem;
+  
+}
+
+a.cat-btn:hover{
+  color: #fff;
+  background-color: #EEA66B;
+  scale: 1.1;
+}
+
 @media (min-width: 991px) {
   .navegacion {
       display: flex;
@@ -677,6 +699,21 @@ a.decade-btn:hover{
   .imagen-contacto{
     width: 18rem;
     border-radius: 30px;
+  }
+
+  a.shop-btn {
+    padding: 15px 60px;
+    border-radius: 2rem;
+    font-size: 1rem;
+    
+  }
+
+  h5{
+    font-size: 1.5rem;
+    
+    line-height: 2rem;
+  
+  
   }
 
 }
