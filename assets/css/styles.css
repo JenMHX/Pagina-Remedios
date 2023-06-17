@@ -186,6 +186,14 @@ a {
 .navegacion__enlace:active{
   color: #fff
 }
+
+.navegacion__enlace:focus{
+  color: #fff
+}
+
+.navegacion__enlace:hover{
+  color: #fff
+}
 .icono-width{
   width: 4rem;
   
@@ -204,6 +212,14 @@ a {
 .contenedor-03{
   display: none;
 }
+
+
+.libro-img{
+  border-radius: 3.3rem!important;
+  width: auto;
+  height: 40rem;
+}
+
 
 .option_01 {
   border-radius: 3.3rem!important;
@@ -482,6 +498,17 @@ a.cat-btn:hover{
       justify-content: start;
       
   }
+  h6{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    text-align: center;
+  }
+  .libro-img{
+    border-radius: 3.3rem!important;
+    width: auto;
+    height: 25rem;
+  }
 }
 
 
@@ -497,6 +524,7 @@ a.cat-btn:hover{
     font-weight: 400;
     line-height: 2rem;
    }
+ 
 }
 
 
@@ -714,6 +742,12 @@ a.decade-btn:hover{
     line-height: 2rem;
   
   
+  }
+
+  .libro-img{
+    border-radius: 3.3rem!important;
+    width: auto;
+    height: 30rem;
   }
 
 }
