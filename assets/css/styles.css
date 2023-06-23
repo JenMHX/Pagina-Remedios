@@ -1,800 +1,91 @@
 
 
-body{
-    background-color: #1E1E1E;
-    font-family: 'Nanum Myeongjo', serif;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 400;
-    font-size: 1rem;
-    letter-spacing: 0.1px;
-    line-height: 1.8;
-}
-.bg-dark-01{
-  
-    background-color: #1E1E1E;
-}
 
 
-.bg-footer{
-  background-color: #EEA66B;
-  color: #fff;
-  padding-bottom: 6rem;
-  padding-top: 6em;
-  padding-left: 0;
-  padding-right: 0;
-}
-
-h1, .h1, h3 , .h3 {
-  font-family: 'Nanum Myeongjo', serif;
-  font-weight: 400;
-  margin: 0 0 1.25rem 0;
-  color: #EEA66B;
-  text-transform: uppercase;
-}
-
-h1, .h1, h3 , .h3  {
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 4rem; 
-
-}
-h2, .h2, h4 , .h4 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 500;
-  margin: 0 0 1.25rem 0;
-  color: #ffffff;
-}
-
-h2, .h2, h4 , .h4 {
-  font-size: 1.5rem;
-  font-weight: 500;
-  line-height: 2rem;
-}
-
-h5{
-  font-family: 'Raleway', sans-serif;
-  font-weight: 500;
-  margin: 0 0 1.25rem 0;
-  color: #EEA66B;
-}
-
-h5{
-  font-size: 2.5rem;
-  font-weight: 500;
-  line-height: 3rem;
-  text-align: center;
-  text-transform: uppercase;
-
-}
-
-h6{
-  font-family: 'Raleway', sans-serif;
-  font-weight: 500;
-  margin: 0 0 1.25rem 0;
-  color: #EEA66B;
-}
-
-h6{
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 2.5rem;
-  text-align: center;
-}
-
-.btn-ver_mas {
-  color: #fff;
-  background-color: #1E1E1E;
-  border-color: #fff;
-  color: #EEA66B;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 500;
-  font-size: 1.5rem;
-  border-radius: 10px;
-}
-.p-subtitle{
-  font-family: 'Nanum Myeongjo', serif;
-  font-weight: 500;
-  margin: 0 0 1.25rem 0;
-  color: #EEA66B;
-
-}
-
-.p-subtitle{
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 2.5rem;
-  text-align: center;
-}
 
 
-  p{ 
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-    margin: 0 0 1.25rem 0;
-    color: #ffffff;
-    text-align: justify;
 
-  }
-  p{
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5rem;
-  }
 
-.img-border{
-  width: 20rem;
-}
 
- .enlace{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-    margin: 0 0 1.25rem 0;
-    color: #ffffff;
-    text-align: justify;
- }
 
- .enlace{
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1rem;
- }
 
- .p-enlace{
-  font-family: 'Raleway', sans-serif;
-  font-weight: 500;
-  margin: 0 0 1.25rem 0;
-  color: #ffffff;
-  text-align: justify;
 
- }
 
- .p-enlace{
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 2.5rem;
- }
-  span{
-    font-family: 'Nanum Myeongjo', serif;
-    font-weight: 400;
-    margin: 0 0 1.25rem 0;
-    color: #FFFF;
-  }
-  .contenedor {
-    width: min(90%, 120rem)!important;
-    margin: 0 auto;
-    
-}
 
-a {
-  text-decoration: none;
-}
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 .barra {
   padding-top: 4rem;
   padding-bottom: 4rem;
   
 }
 
-.navegacion__enlace {
-  font-family: 'Nanum Myeongjo', serif;
-  text-align: center;
-  font-size: 1rem;
-  color: #EEA66B;
-  margin: auto;
-  text-transform: uppercase;
-}
-
-.navegacion__enlace:active{
-  color: #fff
-}
-
-.navegacion__enlace:focus{
-  color: #fff
-}
-
-.navegacion__enlace:hover{
-  color: #fff
-}
-.icono-width{
-  width: 4rem;
-  
-}
-
-.site-logo{
-  padding: 6px 0;
-  width: 20rem;
-}
-
-.contenedor-02{
- 
-  display: none;
-}
-
-.contenedor-03{
-  display: none;
-}
-
-
-.libro-img{
-  border-radius: 3.3rem!important;
-  width: auto;
-  height: 40rem;
-}
-
-
-.option_01 {
-  border-radius: 3.3rem!important;
-  background-image: url(../images/Cat.292-Mujer-Saliendo-del-Psicoanalista-1960-2.webp);
-  background-color: #EEA66B;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 20rem;
-}
-
-
-.option_01:hover{
-  scale: 1.1;
-}
-.ShopWindow{
-  width: 5.5rem;
-}
-
-.option_02:hover{
-  scale: 1.1;
-}
-
-.option_03:hover{
-  scale: 1.1;
-}
-.option_04:hover{
-  scale: 1.1;
-}
-
-.option_05:hover{
-  scale: 1.1;
-}
-.option_02{
-  border-radius: 3.3rem!important;
-  width: auto;
-  height: 20rem;
-  background: #EEA66B;
-
-}
-
-.input-newsletter{
-  background-color: #1E1E1E;
-  color: #fff;
-  font-size: 1.5rem;
-  font-weight: 400;
-  border-radius: 15px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 10px;
-  padding-left: 15px;
-}
-
-.input-contact{
-  background-color: #1E1E1E;
-  color: #fff;
-  font-size: 1.5rem;
-  font-weight: 400;
-  border-radius: 15px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 10px;
-  padding-left: 15px;
-}
-
-.newsletter-btn{
-  background-color: #fff;
-  color: #1E1E1E;
-  font-size: 1.5rem;
-  font-weight: 400;
-  border-radius: 10px;
-  border: none;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 30px;
-  padding-left: 30px;
-}
-
-.contact-btn{
-  background-color: #fff;
-  color: #1E1E1E;
-  font-size: 1.5rem;
-  font-weight: 400;
-  border-radius: 10px;
-  border: none;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 30px;
-  padding-left: 30px;
-}
-
-.imagen-contacto{
-  width: 23rem;
-  border-radius: 30px;
-}
-
-.iconos{
-  width: auto;
-  height: 8rem;
-  background-image: url(../images/icons.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.option_03{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Remedios-Varo-Junto-a-la-obra-Retrato-de-Los-Ninos-Villasenor-1956-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 8rem;
-
-}
-.option_04{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/libros-remedios-varo-los-años-en-méxico.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 8rem;
-
-}
-
-.option_05 {
-  border-radius: 3.3rem!important;
-  background-image: url(../images/Cat.289-Nacer-De-Nuevo-1960-1.webp);
-  background-repeat: no-repeat;
-  background-position:top;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.option_06 {
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.342-Lécole-buissonnière-1962-2.webp);
-  background-repeat: no-repeat;
-  background-position:top;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.option_07 {
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.287-Nave-astral-1960-1.webp);
-  background-repeat: no-repeat;
-  background-position:top;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-
-.obra_01{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.73-Laboratorio-1947-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.obra_02{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.359-Fenómeno-De-Ingravidez-1963-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.obra_03{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.306-La-Huída-1960-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.obra_04{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.298-Planta-1960-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.obra_05{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.313-Astro-Errante-1961-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.obra_06{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/Cat.53-Torre-Centauro-1953-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-.img-bio{
-  border-radius: 2.3rem!important;
-  background-image: url(../images/images.jpeg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 10rem;
-
-}
-.bg-portada-01{
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  
-}
-
-.card-body-obra {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
-  word-wrap: break-word;
-  background-color: #EEA66B;
-  background-clip: border-box;
-  border: 1px solid rgba(0,0,0,.125);
-  border-radius: 0.25rem;
-}
-
-
-a.cat-btn {
-  font-family: 'Raleway', sans-serif;
-  display: inline-block;
-  color: #EEA66B;
-  border: 2px solid #EEA66B;
-  padding: 8px 33px;
-  border-radius: 2rem;
-  font-size: 1rem;
-  
-}
-
-a.cat-btn:hover{
-  color: #fff;
-  background-color: #EEA66B;
-  scale: 1.1;
-}
-
-@media (min-width: 991px) {
-  .navegacion {
-      display: flex;
-      justify-content: center;
-      gap: 5rem;
-  }
-}
-
-@media (max-width: 990px) {
-  .navegacion {
-      display: flex;
-      flex-direction: column-reverse;
-      justify-content: start;
-      
-  }
-  h6{
-    font-size: 1rem;
-    font-weight: 500;
-    line-height: 1.5rem;
-    text-align: center;
-  }
-  .libro-img{
-    border-radius: 3.3rem!important;
-    width: auto;
-    height: 25rem;
-  }
-}
-
-
-
-
-
-
-@media screen and (min-width:992px){
-  .nav-item {
-  line-height:80px;
-  }
-}
-.navbar-light .navbar-toggler-icon {
-  background-image: url("../images/menu.png");
-  margin:auto;
-  
-  
-}
-
-.rounded-img{
-  border-radius: 3.3rem!important;
-}
-
-.flex-contenedor-1{
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  padding-left: 35px;
-}
-
-a.read-more-btn {
-  font-family: 'Raleway', sans-serif;
-  display: inline-block;
-  color: #EEA66B;
-  border: 2px solid #EEA66B;
-  padding: 8px 33px;
-  border-radius: 2rem;
-  font-size: 1rem;
-  
-}
-
-a.shop-btn {
-  font-family: 'Raleway', sans-serif;
-  display: inline-block;
-  color: #EEA66B;
-  border: 2px solid #EEA66B;
-  padding: 15px 60px;
-  border-radius: 2rem;
-  font-size: 2rem;
-  
-}
-
-a.read-more-btn:hover{
-  color: #fff;
-  background-color: #EEA66B;
-  scale: 1.1;
-
-}
-
-a.decade-btn{
-  font-family: 'Raleway', sans-serif;
-  display: inline-block;
-  color: #1E1E1E;
-  background-color: #EEA66B;
-  padding: 12px 45px;
-  border-radius: 1rem;
-  font-size: 1rem;
-
-}
-
-a.decade-btn:hover{
-  color: #fff;
-  background-color: #e99c5d;
-  scale: 1.1;
-
-}
-
-.year-title{
-  font-family:'Nanum Myeongjo', serif;
-  display: inline-block;
-  color: #1E1E1E;
-  background-color: #EEA66B;
-  padding: 4px 55px;
-  border-radius: 1.5rem;
-  font-size: 2.3rem;
-  font-weight: 700;
-  width: 15rem;
-  display: flex;
-  justify-content: center;
-
-}
-
-.bg-image-cronologia{
-  background-color: #e99c5d;
-  padding: 1rem;
-  margin: auto;
-}
-
-.bg-size{
-  background-image: url(../images/Angles-1.webp);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.bg-size_02{
-  background-image: url(../images/Bio_02.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.bg-size_03{
-  background-image: url(../images/Bio_03.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-
-.bg-size_04{
-  background-image: url(../images/Bio_04.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: auto;
-  height: 30rem;
-}
-.border-cronologia{
-  border: 2px solid #EEA66B;
-  width: 100%;
-}
-
-.content-cronologia{
-  padding-top: 8rem;
-  padding-bottom: 8rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.flex-button-01{
-  display: flex;
-  justify-content: end;
-}
-
-@media (max-width: 990px) {
-  h1, .h1, h3 , .h3  {
-    font-size: 2rem;
-    font-weight: 400;
-    line-height: 2rem; 
-  }
-  p{
-    font-size: 0.8rem;
-    font-weight: 400;
-    line-height: 1rem;
-  }
-  h2, .h2, h4 , .h4 {
-    font-size: 1rem;
-    font-weight: 500;
-    line-height: 1rem;
-  }
-  a.read-more-btn {
-  
-    font-size: 0.7rem;
-  }
-  a.decade-btn{ 
-    padding: 8px 34px;
-  }
-  .enlace{
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1rem;
-   }
-   .p-enlace{
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5rem;
-   }
-
-   .input-newsletter{
-    background-color: #1E1E1E;
-    color: #fff;
-    font-size: 1rem;
-    font-weight: 400;
-    border-radius: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-right: 10px;
-    padding-left: 15px;
-  }
-
-  .newsletter-btn{
-    background-color: #fff;
-    color: #1E1E1E;
-    font-size: 1rem;
-    font-weight: 400;
-    border-radius: 10px;
-    border: none;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-right: 30px;
-    padding-left: 30px;
-  }
-  
-}
-
-
-@media (max-width: 767px) {
-  .contenedor-01{
-    display: none;
-  }
-  .contenedor-02{
-    padding: 0 16px 0 16px;
-    margin-top: 32px;
-    display: block;
-    text-align: justify;
-  }
-
-  .contenedor-03{
-    display: block;
-  }
-  .flex-button-02{
-    display: flex;
-    justify-content: center;
-  }
-  .enlace{
-    font-size: 1rem;
-    line-height: 0.5rem;
-    
-  }
-
-  .p-enlace{
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5rem;
-    text-align: left;
-   }
-  
-
-  .bg-footer{
-    
-    padding-bottom: 2rem;
-    padding-top: 2em;
-    padding-left: 25px;
-    padding-right: 25px;
-  }
-  .bg-size,.bg-size_02, .bg-size_03 , .bg-size_04{  
-    height: 14rem;
-  }
-
-  .content-cronologia{
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-
-  .imagen-contacto{
-    width: 18rem;
-    border-radius: 30px;
-  }
-
-  a.shop-btn {
-    padding: 15px 60px;
-    border-radius: 2rem;
-    font-size: 1rem;
-    
-  }
-
-  h5{
-    font-size: 1.5rem;
-    
-    line-height: 2rem;
-  
-  
-  }
-
-  .libro-img{
-    border-radius: 3.3rem!important;
-    width: auto;
-    height: 30rem;
-  }
-
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
