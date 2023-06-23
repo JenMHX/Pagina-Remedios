@@ -1,0 +1,173 @@
+@media (max-width: 767px) {
+    .contenedor-01{
+      display: none;
+    }
+    .contenedor-02{
+      padding: 0 16px 0 16px;
+      margin-top: 32px;
+      display: block;
+      text-align: justify;
+    }
+  
+   
+    .enlace{
+      font-size: 1rem;
+      line-height: 0.5rem;
+      
+    }
+  
+    .p-enlace{
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5rem;
+      text-align: left;
+     }
+    
+  
+    .bg-footer{
+      
+      padding-bottom: 2rem;
+      padding-top: 2em;
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+    .bg-size,.bg-size_02, .bg-size_03 , .bg-size_04{  
+      height: 14rem;
+    }
+  
+    .content-cronologia{
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  
+    .imagen-contacto{
+      width: 18rem;
+      border-radius: 30px;
+    }
+  
+    a.shop-btn {
+      padding: 15px 60px;
+      border-radius: 2rem;
+      font-size: 1rem;
+      
+    }
+  
+    h5{
+      font-size: 1.5rem;
+      
+      line-height: 2rem;
+    
+    
+    }
+  
+    .libro-img{
+      border-radius: 3.3rem!important;
+      width: auto;
+      height: 30rem;
+    }
+  
+  }
+
+  @media (max-width: 990px) {
+    h1, .h1, h3 , .h3  {
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 2rem; 
+    }
+    p{
+      font-size: 0.8rem;
+      font-weight: 400;
+      line-height: 1rem;
+    }
+    h2, .h2, h4 , .h4 {
+      font-size: 1rem;
+      font-weight: 500;
+      line-height: 1rem;
+    }
+    a.read-more-btn {
+    
+      font-size: 0.7rem;
+    }
+    a.decade-btn{ 
+      padding: 8px 34px;
+    }
+    .enlace{
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1rem;
+     }
+     .p-enlace{
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5rem;
+     }
+  
+     .input-newsletter{
+      background-color: #1E1E1E;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 400;
+      border-radius: 15px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-right: 10px;
+      padding-left: 15px;
+    }
+  
+    .newsletter-btn{
+      background-color: #fff;
+      color: #1E1E1E;
+      font-size: 1rem;
+      font-weight: 400;
+      border-radius: 10px;
+      border: none;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-right: 30px;
+      padding-left: 30px;
+    }
+    
+  }
+
+  @media (max-width: 990px) {
+    .navegacion {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: start;
+        
+    }
+    h6{
+      font-size: 1rem;
+      font-weight: 500;
+      line-height: 1.5rem;
+      text-align: center;
+    }
+    .libro-img{
+      border-radius: 3.3rem!important;
+      width: auto;
+      height: 25rem;
+    }
+  }
+
+  @media screen and (min-width:992px){
+    .nav-item {
+    line-height:80px;
+    }
+  }
+  .navbar-light .navbar-toggler-icon {
+    background-image: url("../images/menu.png");
+    margin:auto;
+    
+    
+  }
+
+  @media (min-width: 991px) {
+    .navegacion {
+        display: flex;
+        justify-content: center;
+        gap: 5rem;
+    }
+  }
+  

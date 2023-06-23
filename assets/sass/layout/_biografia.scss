@@ -1,0 +1,71 @@
+.img-border{
+    width: 20rem;
+  }
+  
+  .year-title{
+    font-family:'Nanum Myeongjo', serif;
+    display: inline-block;
+    color: #1E1E1E;
+    background-color: #EEA66B;
+    padding: 4px 55px;
+    border-radius: 1.5rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    width: 15rem;
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .bg-image-cronologia{
+    background-color: #e99c5d;
+    padding: 1rem;
+    margin: auto;
+  }
+  
+  .bg-size{
+    background-image: url(../images/Angles-1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 30rem;
+  }
+  
+  .bg-size_02{
+    background-image: url(../images/Bio_02.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 30rem;
+  }
+  
+  .bg-size_03{
+    background-image: url(../images/Bio_03.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 30rem;
+  }
+  
+  .bg-size_04{
+    background-image: url(../images/Bio_04.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 30rem;
+  }
+  .border-cronologia{
+    border: 2px solid #EEA66B;
+    width: 100%;
+  }
+  
+  .content-cronologia{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }

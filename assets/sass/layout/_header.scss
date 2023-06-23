@@ -1,0 +1,81 @@
+.contenedor {
+    width: min(120rem)!important;
+    margin: 0 auto;
+    
+}
+
+.rounded-img{
+    border-radius: 3.3rem!important;
+  }
+
+  .contenedor-02{
+ 
+    display: none;
+  }
+
+  .contenedor-03{
+    display: block;
+  }
+  .flex-button-02{
+    display: flex;
+    justify-content: center;
+  }
+
+  a.read-more-btn {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    color: #EEA66B;
+    border: 2px solid #EEA66B;
+    padding: 8px 33px;
+    border-radius: 2rem;
+    font-size: 1rem;
+    
+  }
+
+  .flex-contenedor-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-left: 35px;
+  }
+
+  .navegacion__enlace {
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    font-size: 1rem;
+    color: #EEA66B;
+    margin: auto;
+    text-transform: uppercase;
+  }
+
+  .navegacion__enlace:active{
+    color: #fff
+  }
+  
+  .navegacion__enlace:focus{
+    color: #fff
+  }
+  
+  .navegacion__enlace:hover{
+    color: #fff
+  }
+  .icono-width{
+    width: 4rem;
+    
+  }
+  
+  .site-logo{
+    padding: 6px 0;
+    width: 20rem;
+  }
+
+  .contenedor-03{
+    display: none;
+  }
+
+  a.read-more-btn:hover{
+    color: #fff;
+    background-color: #EEA66B;
+    scale: 1.1;
+  
+  }
